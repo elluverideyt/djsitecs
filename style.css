@@ -47,15 +47,16 @@ li a {
     transition: background-color 0.3s ease;
 }
 
-/* Change the link color to #111 (black) on hover */
 li a:hover {
     background-color: #555;
 }
 
 img {
-    max-width: 100%;
+    max-width: 80%;
     height: auto;
     margin: 20px 0;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
 a {
