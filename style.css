@@ -70,3 +70,9 @@ a {
 a:hover {
     text-decoration: underline;
 }
+
+.centered-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
