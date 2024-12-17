@@ -90,5 +90,15 @@ a:hover {
     display: flex;
     align-items: center;
     justify-content: center;
-    flex-direction: column;
+    flex-direction: row;
+    margin: 20px 0;
+}
+
+.image-container img {
+    margin-right: 10px;
+}
+
+.icon-container {
+    text-align: center;
+    margin-top: 20px;
 }
